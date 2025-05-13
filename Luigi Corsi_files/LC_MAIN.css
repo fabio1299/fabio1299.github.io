@@ -1,0 +1,24 @@
+BODY {
+	BACKGROUND: #999999; FONT-FAMILY: palatino, times, new york, bookman, serif
+}
+.head {
+	PADDING-RIGHT: 1%; PADDING-LEFT: 1%; BACKGROUND: #660000; PADDING-BOTTOM: 1%; COLOR: #ffffff; PADDING-TOP: 1%
+}
+.saneside {
+	BACKGROUND: #ffffff; COLOR: #000000
+}
+.animalside {
+	PADDING-RIGHT: 1%; PADDING-LEFT: 1%; BACKGROUND: #000000; PADDING-BOTTOM: 1%; COLOR: #ffffff; PADDING-TOP: 1%
+}
+.test {
+	BACKGROUND: #660000; COLOR: #ffffff
+}
+A:link {
+	TEXT-DECORATION: none
+}
+A:visited {
+	TEXT-DECORATION: none
+}
+A:active {
+	TEXT-DECORATION: none
+}
